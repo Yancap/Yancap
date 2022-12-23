@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Yan Gabriel 👋
 
-<!--
-**Yancap/Yancap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm Web Developer! and studying systems development technician at Fundação Bradesco!
 
-Here are some ideas to get you started:
+#### Current Stack
+- Front-end: `HTML5, CSS3, JavaScript & Bootstrap 5`
+- Back-end: `Python and Django(coming soon)`
+- Layout Tools: `Figma`
+- Version Code Control: `Git & GitHub`
+- Tools: `VsCode`
+- i'll study: `React, NodeJS, Django and Sass`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+
+- Email: yangabriel3001f@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yangabriel/
