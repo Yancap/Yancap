@@ -17,3 +17,7 @@ I'm Web Developer! and studying systems development technician at Fundação Bra
 
 - Email: yangabriel3001f@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yangabriel/
+
+#### Resume
+
+- Site: https://yan-resume.netlify.app/
