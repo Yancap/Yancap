@@ -5,13 +5,13 @@ I'm Web Developer! and studying systems development technician at Fundação Bra
 
 #### Current Stack
 - Front-end: `HTML5, CSS3, JavaScript, React (Studying) & Bootstrap 5`
-- Back-end: `Python`
+- Back-end: `Python, NodeJS (Studying)`
 - Architecture: `MVC`
 - Paradigm: `Object Oriented Programming`
 - Layout Tools: `Figma`
 - Version Code Control: `Git & GitHub`
 - Tools: `VsCode`
-- i'll study: ` NodeJS, Django and Sass`
+- i'll study: `  Sass`
 
 #### Contacts
 
