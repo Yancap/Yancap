@@ -4,8 +4,8 @@
 I'm Web Developer! and studying systems development technician at Fundação Bradesco!
 
 #### Current Stack
-- Front-end: `HTML5, CSS3, JavaScript, React (Studying) & Bootstrap 5`
-- Back-end: `Python, NodeJS (Studying)`
+- Front-end: `HTML5, CSS3, JavaScript, React & Bootstrap 5`
+- Back-end: `Python, TypeScript (Studying) & NodeJS (Studying)`
 - Architecture: `MVC`
 - Paradigm: `Object Oriented Programming`
 - Layout Tools: `Figma`
