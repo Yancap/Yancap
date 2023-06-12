@@ -52,4 +52,5 @@ I'm Web Developer! and studying systems development technician at Fundação Bra
 
 #### Portfolio
 
-- Site: https://yangabriel.netlify.app/
+- Personal Website: https://yangabriel.netlify.app/
+- Portfolio: https://yangabrielportfolio.netlify.app/
