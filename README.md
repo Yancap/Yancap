@@ -55,4 +55,4 @@ I'm Application Developer at IBM and studying systems development technician at 
 #### Portfolio
 
 - Personal Website: https://yangabriel.netlify.app/
-- Portfolio: [ https://yangabrielportfolio.netlify.app/](https://yangabriel.netlify.app/)https://yangabriel.netlify.app/
+- Portfolio: https://yangabriel.netlify.app/
