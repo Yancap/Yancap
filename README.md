@@ -1,7 +1,7 @@
 ### Hi there, I'm Yan Gabriel 👋
 
 ## About
-I'm Web Developer! and studying systems development technician at Fundação Bradesco!
+I'm Application Developer at IBM and studying systems development technician at Fundação Bradesco!
 
 <br>
 <h1>Technologies</h1>
@@ -55,4 +55,4 @@ I'm Web Developer! and studying systems development technician at Fundação Bra
 #### Portfolio
 
 - Personal Website: https://yangabriel.netlify.app/
-- Portfolio: https://yangabrielportfolio.netlify.app/
+- Portfolio: [ https://yangabrielportfolio.netlify.app/](https://yangabriel.netlify.app/)https://yangabriel.netlify.app/
